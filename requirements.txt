@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+numpy
+torch
+pillow
+pandas
+face-recognition
+face-recognition-models
+bcrypt
+python-dateutil
+ultralytics
+dlib
+cmake
